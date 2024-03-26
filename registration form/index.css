@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    height: 100vh;
+    padding: 50px 60px 70px;
+    margin: 2px;
+    border: 2px solid black;
+    align-items: center;
+    background-color: paleturquoise;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+    position: relative;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://img.freepik.com/free-photo/blurred-illuminated-wooden-hall_1203-1265.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    position: relative;
+
+}
+/* *{
+    background-color: azure;
+    background-repeat: no-repeat;
+
+} */

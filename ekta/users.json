@@ -1,0 +1,27 @@
+{
+    "users":
+    [
+        {
+            "Username" : "Ekta",
+            "Password" : "Ekta1234"
+        },
+        {
+            "Username" : "aditya",
+            "Password" : "adi12"
+        },
+        {
+            "Username" : "karan",
+            "Password" : "k@34"
+        },
+        {
+            "Username" : "ram",
+            "Password" : "ram@01"
+        },
+        {
+            "Username" : "admin",
+            "Password" : "1234@admin",
+            "isAdmin": true
+        }
+
+    ]
+}
